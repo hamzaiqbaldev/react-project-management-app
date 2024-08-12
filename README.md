@@ -12,7 +12,3 @@ A simple project management application using Laravel 11 and React.
 8. Show dashboard with overview information
 
 
-## Demo
-http://ec2-3-27-247-122.ap-southeast-2.compute.amazonaws.com
-
-
